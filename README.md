@@ -75,7 +75,7 @@ Durante a etapa de modelagem foi feita uma análise para entender qual classific
 Nessa etapa os modelos tiveram a seguinte performande: 
 
 Modelo | ROC Treino | ROC Teste | KS Treino | KS Teste | Acurácia Treino | Acurácia Teste |
--------|------|------|------|------|                  
+-------|------|------|------|------| ------| ------|                
 Logistic Regression | 68.82% | 70.12% | 27.95% | 31.66% | 72.32% | 68.94% |
 Decision Tree | 78.03% | 63.93% | 40.82% | 22.19% | 74.63% | 67.67% |
 Random Forest | 77.86% | 64.94% | 40.71% | 22.96% | 74.63% | 67.63% |
