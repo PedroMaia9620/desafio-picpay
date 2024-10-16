@@ -97,7 +97,7 @@ A avaliação do projeto foi feita em 2 etapas: uma pela performance do KS e ROC
 A etapa anterior evidenciou o modelo da Explainable Boosting Machine como o mais apropriado para o problema em questão. Podemos comparar as performances na tabela abaixo
 
 Modelo | ROC Treino | ROC Teste | KS Teste |
--------|------|------|------|------|                  
+-------|------|------|------|                
 Gradient Boosting | ~70% | ~70% | 29.93% |
 LightGBM | ~70% | ~70% | 31.04% |
 Explainable Boosting Machine | ~69% | ~70% | 31.66% |
